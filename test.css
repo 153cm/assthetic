@@ -1,0 +1,25 @@
+body,html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+h1, h3 {
+  margin-top: 0px;
+  font-family: arial;
+  text-align: center;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+h3 {
+  font-size: 150%;
+  margin-top: -20px;
+}
+table {
+  border-spacing: 10px;
+}
